@@ -6,4 +6,4 @@ You will gain new skills.
 ## TABLE
 --------------
 | QUESTION | DESCRIPTION | DIRECTORY |
-
+|----------|-------------|-----------|
