@@ -39,3 +39,174 @@ luac.out
 *.x86_64
 *.hex
 
+
+
+# ======================
+# 💥 GENERAL GARBAGE
+# ======================
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*.~*
+*.orig
+*.rej
+*~
+*.cache
+.cache/
+
+# ======================
+# 🧠 PYTHON
+# ======================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+env/
+ENV/
+venv/
+.venv/
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ======================
+# 🐘 PHP / Composer
+# ======================
+vendor/
+composer.lock
+composer.phar
+*.phpunit.result.cache
+.phpunit.cache/
+phpunit.xml
+phpunit.xml.dist
+
+# ======================
+# 🧠 C / C++
+# ======================
+*.o
+*.obj
+*.so
+*.dll
+*.exe
+*.out
+*.a
+*.lib
+*.gch
+*.pch
+*.idb
+*.pdb
+*.ipch
+*.d
+
+# ======================
+# ⚙️ ASM / Compiled Binaries
+# ======================
+*.lst
+*.map
+*.bin
+*.elf
+*.hex
+*.sym
+
+# ======================
+# 🌐 JavaScript / Node
+# ======================
+node_modules/
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+npm-debug.log*
+.yarn/
+
+# ======================
+# 📦 SQL & Databases
+# ======================
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.db3
+
+# ======================
+# 📦 Postman
+# ======================
+postman/collections/
+.postman/
+*.postman_environment.json
+*.postman_collection.json
+
+# ======================
+# 🐳 Docker
+# ======================
+.docker/
+docker-compose.override.yml
+*.tar
+*.gz
+*.img
+*.container
+*.pid
+
+# ======================
+# 🧱 Code::Blocks
+# ======================
+*.layout
+*.depend
+*.layout.save
+*.cbp.save
+*.cbp.*
+*.autosave
+
+# ======================
+# 📝 Geany
+# ======================
+*.geany
+
+# ======================
+# 🧠 IntelliJ / JetBrains IDEs
+# ======================
+.idea/
+*.iml
+out/
+*.ipr
+*.iws
+
+# ======================
+# 🔮 VS Code
+# ======================
+.vscode/
+.history/
+.code-workspace
+
+# ======================
+# 💾 OS Trash
+# ======================
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+.DS_Store
+.AppleDouble
+.LSOverride
+.Trashes
+.fseventsd
+
+# ======================
+# 💾 Backup Files
+# ======================
+*.bak
+*.old
+*.save
+*.backup
+*.sw?
+*~
+
