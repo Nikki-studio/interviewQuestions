@@ -7,7 +7,7 @@ You will gain new skills.
 --------------
 | QUESTION | DESCRIPTION |
 |----------|-------------|
-| [`aa1`](./aa1/README.txt) | Find the result of multiplication of two numbers without using multiplications |
+| [`aa1`](./aa1/README.md) | Find the result of multiplication of two numbers without using multiplications |
 
 
 
