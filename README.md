@@ -1,17 +1,18 @@
-# interviewQuestions
-This is a compilation of the works i upload.
-This will ar will not used in an interview questions.
-You will gain new skills.
+# Interview Questions
 
-## TABLE
---------------
-| QUESTION | DESCRIPTION |
+A compilation of solutions and challenges I've worked on.  
+These may or may not appear in interviews, but they'll definitely help you sharpen your skills.
+
+## Table of Contents
+
+| Question | Description |
 |----------|-------------|
-| [`aa1`](./aa1/README.md) | Find the result of multiplication of two numbers without using multiplications |
+| [Multiplication Without Operator](./multiplication_without_operator/README.md) | Multiply two numbers without using the `*` operator |
 
+---
 
+> This repository is a growing collection of algorithmic problems and coding techniques aimed at improving problem-solving and interview skills.
 
+---
 
-*README.md*
-
-
+🛠️ *README.md*
