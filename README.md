@@ -8,7 +8,9 @@ These may or may not appear in interviews, but they'll definitely help you sharp
 | Question | Description |
 |----------|-------------|
 | [Multiplication Without Operator](./multiplication_without_operator/README.md) | Multiply two numbers without using the `*` operator |
-|[Print asterisk](./print_shape/README.md)||
+|[Print asterisk](./print_shape/README.md)| Print shapes
+print various shapes using for loops.
+|
 
 ---
 
