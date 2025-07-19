@@ -15,4 +15,4 @@ These may or may not appear in interviews, but they'll definitely help you sharp
 
 ---
 
-🛠️ *README.md*
+*README.md*
