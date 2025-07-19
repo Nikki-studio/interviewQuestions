@@ -86,11 +86,11 @@ void rectangle(const int x, const int y)
         {
             if (i == 0 || i == x-1 || j == 0 || j == y-1)
             {
-                printf("*");
+                printf("* ");
             }
             else
             {
-                printf(" ");
+                printf("  ");
             }
         }
         printf("\n");
@@ -106,9 +106,9 @@ void square(const int x)
         {
             if (i ==  0 || i == x-1 || j == 0 || j == x-1)
             {
-                printf("*");
+                printf("* ");
             } else {
-                printf(" ");
+                printf("  ");
             }
         }
         printf("\n");
@@ -124,11 +124,11 @@ void letterX(const int x, const int y)
         {
             if ( j == i || j == x-i-1 )
             {
-                printf("*");
+                printf("* ");
             }
             else
             {
-                printf(" ");
+                printf("  ");
             }
         }
         printf("\n");
@@ -144,11 +144,11 @@ void BorderedletterX(const int x, const int y)
         {
             if ( j == i || j == x-i-1 || j == 0 || j == y-1 ||  i == 0 || i == x-1 )
             {
-                printf("*");
+                printf("* ");
             }
             else
             {
-                printf(" ");
+                printf("  ");
             }
         }
         printf("\n");
@@ -164,11 +164,11 @@ void triangleBottomLeft(const int x, const int y)
         {
             if ( j == i || j == 0 || i == x-1 )
             {
-                printf("*");
+                printf("* ");
             }
             else
             {
-                printf(" ");
+                printf("  ");
             }
         }
         printf("\n");
@@ -184,11 +184,11 @@ void triangleBottomRight(const int x, const int y)
         {
             if ( j == x-i-1 || j == y-1 || i == x-1 )
             {
-                printf("*");
+                printf("* ");
             }
             else
             {
-                printf(" ");
+                printf("  ");
             }
         }
         printf("\n");
@@ -203,11 +203,11 @@ void triangleTopLeft(const int x, const int y)
         {
             if ( j == x-i-1 || j == 0 || i == 0 )
             {
-                printf("*");
+                printf("* ");
             }
             else
             {
-                printf(" ");
+                printf("  ");
             }
         }
         printf("\n");
@@ -224,11 +224,11 @@ void triangleTopRight(const int x, const int y)
         {
             if ( j == i || j == x-1 || i == 0 )
             {
-                printf("*");
+                printf("* ");
             }
             else
             {
-                printf(" ");
+                printf("  ");
             }
         }
         printf("\n");

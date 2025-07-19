@@ -13,6 +13,7 @@ These may or may not appear in interviews, but they'll definitely help you sharp
 ---
 
 > This repository is a growing collection of algorithmic problems and coding techniques aimed at improving problem-solving and interview skills.
+> Feel free to update anything.
 
 ---
 
